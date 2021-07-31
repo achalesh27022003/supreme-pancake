@@ -1,0 +1,1291 @@
+{
+  "pdfDoc" : "Achalesh_Lakhotiya_TPC.pdf",
+  "extractedBy" : "https://busypdf.com",
+  "pages" : [ {
+    "pageNo" : 1,
+    "trimBoxOriginX" : 0.0,
+    "trimBoxOriginY" : 7.829981327056885,
+    "trimBoxWidth" : 595.5,
+    "trimBoxHeight" : 842.25,
+    "txtRns" : [ {
+      "leftX" : 220.2418,
+      "bottomY" : 26.327,
+      "rightX" : 376.2542,
+      "topY" : 7.327,
+      "baseLineY" : 21.8863,
+      "fontId" : 1,
+      "text" : "Achalesh Lakhotiya"
+    }, {
+      "leftX" : 124.2202,
+      "bottomY" : 42.9002,
+      "rightX" : 182.9659,
+      "topY" : 31.9002,
+      "baseLineY" : 40.5866,
+      "fontId" : 2,
+      "text" : "7023320149 | "
+    }, {
+      "leftX" : 182.6286,
+      "bottomY" : 42.9002,
+      "rightX" : 293.6523,
+      "topY" : 31.9002,
+      "baseLineY" : 40.5866,
+      "fontId" : 2,
+      "text" : "code.achalesh@gmail.com"
+    }, {
+      "leftX" : 293.3113,
+      "bottomY" : 42.9002,
+      "rightX" : 300.3524,
+      "topY" : 31.9002,
+      "baseLineY" : 40.5866,
+      "fontId" : 2,
+      "text" : " | "
+    }, {
+      "leftX" : 300.0201,
+      "bottomY" : 42.9002,
+      "rightX" : 340.4603,
+      "topY" : 31.9002,
+      "baseLineY" : 40.5866,
+      "fontId" : 2,
+      "text" : "LinkedIn "
+    }, {
+      "leftX" : 340.1201,
+      "bottomY" : 42.9002,
+      "rightX" : 344.7412,
+      "topY" : 31.9002,
+      "baseLineY" : 40.5866,
+      "fontId" : 2,
+      "text" : "| "
+    }, {
+      "leftX" : 344.4011,
+      "bottomY" : 42.9002,
+      "rightX" : 373.3131,
+      "topY" : 31.9002,
+      "baseLineY" : 40.5866,
+      "fontId" : 2,
+      "text" : "Github"
+    }, {
+      "leftX" : 372.9719,
+      "bottomY" : 42.9002,
+      "rightX" : 380.0131,
+      "topY" : 31.9002,
+      "baseLineY" : 40.5866,
+      "fontId" : 2,
+      "text" : " | "
+    }, {
+      "leftX" : 379.6806,
+      "bottomY" : 42.9002,
+      "rightX" : 415.3154,
+      "topY" : 31.9002,
+      "baseLineY" : 40.5866,
+      "fontId" : 2,
+      "text" : "Medium"
+    }, {
+      "leftX" : 414.972,
+      "bottomY" : 42.9002,
+      "rightX" : 422.0131,
+      "topY" : 31.9002,
+      "baseLineY" : 40.5866,
+      "fontId" : 2,
+      "text" : " | "
+    }, {
+      "leftX" : 421.6807,
+      "bottomY" : 42.9002,
+      "rightX" : 473.6949,
+      "topY" : 31.9002,
+      "baseLineY" : 40.5866,
+      "fontId" : 2,
+      "text" : "HackerRank"
+    }, {
+      "leftX" : 23.0324,
+      "bottomY" : 67.4197,
+      "rightX" : 94.6006,
+      "topY" : 55.4197,
+      "baseLineY" : 64.6151,
+      "fontId" : 3,
+      "text" : "EDUCATION"
+    }, {
+      "leftX" : 23.0324,
+      "bottomY" : 85.9115,
+      "rightX" : 25.7835,
+      "topY" : 74.9115,
+      "baseLineY" : 83.5978,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 25.7769,
+      "bottomY" : 85.9115,
+      "rightX" : 29.4413,
+      "topY" : 74.9115,
+      "baseLineY" : 83.5978,
+      "fontId" : 4,
+      "text" : "I"
+    }, {
+      "leftX" : 29.4363,
+      "bottomY" : 86.1688,
+      "rightX" : 256.8159,
+      "topY" : 75.1688,
+      "baseLineY" : 83.5978,
+      "fontId" : 5,
+      "text" : "ndian Institute of Information Technology, Kota"
+    }, {
+      "leftX" : 256.8067,
+      "bottomY" : 85.9115,
+      "rightX" : 504.3393,
+      "topY" : 74.9115,
+      "baseLineY" : 83.5978,
+      "fontId" : 4,
+      "text" : "                                                                                          "
+    }, {
+      "leftX" : 504.3386,
+      "bottomY" : 85.9115,
+      "rightX" : 557.5099,
+      "topY" : 74.9115,
+      "baseLineY" : 83.5978,
+      "fontId" : 4,
+      "text" : "2019 - 2023"
+    }, {
+      "leftX" : 23.0324,
+      "bottomY" : 97.1709,
+      "rightX" : 25.7835,
+      "topY" : 86.1709,
+      "baseLineY" : 94.8573,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 25.7769,
+      "bottomY" : 97.0737,
+      "rightX" : 328.6045,
+      "topY" : 86.0737,
+      "baseLineY" : 94.8573,
+      "fontId" : 6,
+      "text" : "Bachelor of Technology, Electronics & Communication Engineering"
+    }, {
+      "leftX" : 328.5974,
+      "bottomY" : 97.1709,
+      "rightX" : 504.6207,
+      "topY" : 86.1709,
+      "baseLineY" : 94.8573,
+      "fontId" : 4,
+      "text" : "                                                                "
+    }, {
+      "leftX" : 504.6201,
+      "bottomY" : 97.1709,
+      "rightX" : 561.4666,
+      "topY" : 86.1709,
+      "baseLineY" : 94.8573,
+      "fontId" : 4,
+      "text" : "8.761 CGPA"
+    }, {
+      "leftX" : 23.0324,
+      "bottomY" : 118.1885,
+      "rightX" : 25.7835,
+      "topY" : 107.1885,
+      "baseLineY" : 115.8749,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 25.7769,
+      "bottomY" : 118.4458,
+      "rightX" : 234.8281,
+      "topY" : 107.4458,
+      "baseLineY" : 115.8749,
+      "fontId" : 5,
+      "text" : "Manu Public Senior Secondary School, Kota"
+    }, {
+      "leftX" : 25.7769,
+      "bottomY" : 129.3508,
+      "rightX" : 270.8469,
+      "topY" : 118.3508,
+      "baseLineY" : 127.1343,
+      "fontId" : 6,
+      "text" : "Intermediate, Board of Secondary Education Rajasthan"
+    }, {
+      "leftX" : 234.8156,
+      "bottomY" : 118.4458,
+      "rightX" : 504.351,
+      "topY" : 107.4458,
+      "baseLineY" : 115.8749,
+      "fontId" : 5,
+      "text" : "                                                                                                  "
+    }, {
+      "leftX" : 270.8341,
+      "bottomY" : 129.3508,
+      "rightX" : 504.6149,
+      "topY" : 118.3508,
+      "baseLineY" : 127.1343,
+      "fontId" : 6,
+      "text" : "                                                                                     "
+    }, {
+      "leftX" : 504.3503,
+      "bottomY" : 118.1885,
+      "rightX" : 557.5217,
+      "topY" : 107.1885,
+      "baseLineY" : 115.8749,
+      "fontId" : 4,
+      "text" : "2017 - 2019"
+    }, {
+      "leftX" : 23.0324,
+      "bottomY" : 129.448,
+      "rightX" : 25.7835,
+      "topY" : 118.448,
+      "baseLineY" : 127.1343,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 504.6083,
+      "bottomY" : 129.448,
+      "rightX" : 533.0273,
+      "topY" : 118.448,
+      "baseLineY" : 127.1343,
+      "fontId" : 4,
+      "text" : "95.8%"
+    }, {
+      "leftX" : 23.0324,
+      "bottomY" : 150.4208,
+      "rightX" : 99.7169,
+      "topY" : 138.4208,
+      "baseLineY" : 147.6161,
+      "fontId" : 3,
+      "text" : "EXPERIENCE"
+    }, {
+      "leftX" : 23.0324,
+      "bottomY" : 168.3115,
+      "rightX" : 25.7835,
+      "topY" : 157.3115,
+      "baseLineY" : 165.7406,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 25.4485,
+      "bottomY" : 168.3115,
+      "rightX" : 152.588,
+      "topY" : 157.3115,
+      "baseLineY" : 165.7406,
+      "fontId" : 5,
+      "text" : "Community Student Partner"
+    }, {
+      "leftX" : 27.8646,
+      "bottomY" : 179.2165,
+      "rightX" : 72.5958,
+      "topY" : 168.2165,
+      "baseLineY" : 177.0001,
+      "fontId" : 6,
+      "text" : "C# Corner"
+    }, {
+      "leftX" : 152.2463,
+      "bottomY" : 168.2755,
+      "rightX" : 493.8104,
+      "topY" : 157.2755,
+      "baseLineY" : 165.7406,
+      "fontId" : 7,
+      "text" : "                                                                                                                                             "
+    }, {
+      "leftX" : 493.4779,
+      "bottomY" : 168.0542,
+      "rightX" : 562.5861,
+      "topY" : 157.0542,
+      "baseLineY" : 165.7406,
+      "fontId" : 4,
+      "text" : "Apr '21 - Present"
+    }, {
+      "leftX" : 23.0324,
+      "bottomY" : 179.3137,
+      "rightX" : 28.2036,
+      "topY" : 168.3137,
+      "baseLineY" : 177.0001,
+      "fontId" : 4,
+      "text" : "  "
+    }, {
+      "leftX" : 41.7395,
+      "bottomY" : 200.3313,
+      "rightX" : 93.1264,
+      "topY" : 189.3313,
+      "baseLineY" : 198.0176,
+      "fontId" : 4,
+      "text" : "Authored an"
+    }, {
+      "leftX" : 41.7395,
+      "bottomY" : 210.8401,
+      "rightX" : 153.1901,
+      "topY" : 199.8401,
+      "baseLineY" : 208.5265,
+      "fontId" : 4,
+      "text" : "Using Multiple Platforms\"."
+    }, {
+      "leftX" : 92.7941,
+      "bottomY" : 200.3313,
+      "rightX" : 95.5452,
+      "topY" : 189.3313,
+      "baseLineY" : 198.0176,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 95.2102,
+      "bottomY" : 200.3313,
+      "rightX" : 120.7224,
+      "topY" : 189.3313,
+      "baseLineY" : 198.0176,
+      "fontId" : 4,
+      "text" : "article"
+    }, {
+      "leftX" : 120.3797,
+      "bottomY" : 200.3313,
+      "rightX" : 123.1308,
+      "topY" : 189.3313,
+      "baseLineY" : 198.0176,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 122.7958,
+      "bottomY" : 200.3313,
+      "rightX" : 557.133,
+      "topY" : 189.3313,
+      "baseLineY" : 198.0176,
+      "fontId" : 4,
+      "text" : "that has more than 4,300 views globally and organized a webinar on \" Developing Full Stack Applications"
+    }, {
+      "leftX" : 23.0324,
+      "bottomY" : 230.6448,
+      "rightX" : 25.7835,
+      "topY" : 219.6448,
+      "baseLineY" : 228.0739,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 25.4485,
+      "bottomY" : 230.6448,
+      "rightX" : 114.2831,
+      "topY" : 219.6448,
+      "baseLineY" : 228.0739,
+      "fontId" : 5,
+      "text" : "Content Team Lead"
+    }, {
+      "leftX" : 113.9407,
+      "bottomY" : 230.6087,
+      "rightX" : 494.2266,
+      "topY" : 219.6087,
+      "baseLineY" : 228.0739,
+      "fontId" : 7,
+      "text" : "                                                                                                                                                             "
+    }, {
+      "leftX" : 493.8884,
+      "bottomY" : 230.3875,
+      "rightX" : 561.9301,
+      "topY" : 219.3875,
+      "baseLineY" : 228.0739,
+      "fontId" : 4,
+      "text" : "Apr '19 - July'21"
+    }, {
+      "leftX" : 23.0324,
+      "bottomY" : 241.6469,
+      "rightX" : 28.2036,
+      "topY" : 230.6469,
+      "baseLineY" : 239.3333,
+      "fontId" : 4,
+      "text" : "  "
+    }, {
+      "leftX" : 27.8646,
+      "bottomY" : 241.5497,
+      "rightX" : 98.3927,
+      "topY" : 230.5497,
+      "baseLineY" : 239.3333,
+      "fontId" : 6,
+      "text" : "IIITians Network"
+    }, {
+      "leftX" : 41.7395,
+      "bottomY" : 265.6671,
+      "rightX" : 560.1661,
+      "topY" : 254.6671,
+      "baseLineY" : 263.3535,
+      "fontId" : 4,
+      "text" : "Lead the content writers’ team for continuous content creation like posts, websites, articles, reviews, brochures, blogs & poems"
+    }, {
+      "leftX" : 41.7395,
+      "bottomY" : 282.1809,
+      "rightX" : 352.1952,
+      "topY" : 271.1809,
+      "baseLineY" : 279.8673,
+      "fontId" : 4,
+      "text" : "to help in organizing different events, webinars, workshops & competitions."
+    }, {
+      "leftX" : 41.7395,
+      "bottomY" : 298.6948,
+      "rightX" : 207.6446,
+      "topY" : 287.6948,
+      "baseLineY" : 296.3812,
+      "fontId" : 4,
+      "text" : "Managed and worked as Chief Editor at "
+    }, {
+      "leftX" : 207.312,
+      "bottomY" : 298.6948,
+      "rightX" : 299.1042,
+      "topY" : 287.6948,
+      "baseLineY" : 296.3812,
+      "fontId" : 4,
+      "text" : "Network Publications "
+    }, {
+      "leftX" : 298.7716,
+      "bottomY" : 298.6948,
+      "rightX" : 561.1418,
+      "topY" : 287.6948,
+      "baseLineY" : 296.3812,
+      "fontId" : 4,
+      "text" : "to publish different types of write-ups, reviews, blogs & articles."
+    }, {
+      "leftX" : 23.9809,
+      "bottomY" : 316.1692,
+      "rightX" : 26.732,
+      "topY" : 305.1692,
+      "baseLineY" : 313.5983,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 26.397,
+      "bottomY" : 316.1692,
+      "rightX" : 126.166,
+      "topY" : 305.1692,
+      "baseLineY" : 313.5983,
+      "fontId" : 5,
+      "text" : "Chief Admin & Editor"
+    }, {
+      "leftX" : 125.832,
+      "bottomY" : 316.1331,
+      "rightX" : 496.4374,
+      "topY" : 305.1331,
+      "baseLineY" : 313.5983,
+      "fontId" : 7,
+      "text" : "                                                                                                                                                         "
+    }, {
+      "leftX" : 496.1036,
+      "bottomY" : 315.9119,
+      "rightX" : 564.4423,
+      "topY" : 304.9119,
+      "baseLineY" : 313.5983,
+      "fontId" : 4,
+      "text" : "Apr '19 - Oct '19"
+    }, {
+      "leftX" : 23.9809,
+      "bottomY" : 327.1713,
+      "rightX" : 29.1521,
+      "topY" : 316.1713,
+      "baseLineY" : 324.8577,
+      "fontId" : 4,
+      "text" : "  "
+    }, {
+      "leftX" : 28.8131,
+      "bottomY" : 327.0741,
+      "rightX" : 101.2235,
+      "topY" : 316.0741,
+      "baseLineY" : 324.8577,
+      "fontId" : 6,
+      "text" : "I AM AN NITIAN"
+    }, {
+      "leftX" : 42.688,
+      "bottomY" : 348.189,
+      "rightX" : 435.1886,
+      "topY" : 337.189,
+      "baseLineY" : 345.8754,
+      "fontId" : 4,
+      "text" : "Responsible for handling content workflow & creation on the social media handles and website."
+    }, {
+      "leftX" : 25.2218,
+      "bottomY" : 372.1085,
+      "rightX" : 67.4733,
+      "topY" : 360.1085,
+      "baseLineY" : 369.3038,
+      "fontId" : 3,
+      "text" : "SKILLS"
+    }, {
+      "leftX" : 25.2218,
+      "bottomY" : 390.85,
+      "rightX" : 27.9728,
+      "topY" : 379.85,
+      "baseLineY" : 388.279,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 27.6379,
+      "bottomY" : 390.85,
+      "rightX" : 81.4884,
+      "topY" : 379.85,
+      "baseLineY" : 388.279,
+      "fontId" : 5,
+      "text" : "Languages: "
+    }, {
+      "leftX" : 81.1554,
+      "bottomY" : 390.5926,
+      "rightX" : 338.9192,
+      "topY" : 379.5926,
+      "baseLineY" : 388.279,
+      "fontId" : 4,
+      "text" : "C / C++, Python, HTML & CSS, JavaScript, MATLAB, SQL."
+    }, {
+      "leftX" : 25.2218,
+      "bottomY" : 407.1065,
+      "rightX" : 27.9728,
+      "topY" : 396.1065,
+      "baseLineY" : 404.7929,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 27.6379,
+      "bottomY" : 407.3638,
+      "rightX" : 121.8946,
+      "topY" : 396.3638,
+      "baseLineY" : 404.7929,
+      "fontId" : 5,
+      "text" : "Tools / Frameworks: "
+    }, {
+      "leftX" : 121.5604,
+      "bottomY" : 407.1065,
+      "rightX" : 313.9792,
+      "topY" : 396.1065,
+      "baseLineY" : 404.7929,
+      "fontId" : 4,
+      "text" : "Git, MS-Excel, ReactJs, VSCode, Canva, SEO"
+    }, {
+      "leftX" : 313.6396,
+      "bottomY" : 407.1065,
+      "rightX" : 318.8107,
+      "topY" : 396.1065,
+      "baseLineY" : 404.7929,
+      "fontId" : 4,
+      "text" : "  "
+    }, {
+      "leftX" : 318.4717,
+      "bottomY" : 407.1065,
+      "rightX" : 353.4999,
+      "topY" : 396.1065,
+      "baseLineY" : 404.7929,
+      "fontId" : 4,
+      "text" : "& SEM."
+    }, {
+      "leftX" : 25.2218,
+      "bottomY" : 423.6204,
+      "rightX" : 27.9728,
+      "topY" : 412.6204,
+      "baseLineY" : 421.3067,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 27.6379,
+      "bottomY" : 423.8777,
+      "rightX" : 57.4289,
+      "topY" : 412.8777,
+      "baseLineY" : 421.3067,
+      "fontId" : 5,
+      "text" : "Skills: "
+    }, {
+      "leftX" : 57.0884,
+      "bottomY" : 423.6204,
+      "rightX" : 415.6961,
+      "topY" : 412.6204,
+      "baseLineY" : 421.3067,
+      "fontId" : 4,
+      "text" : "Front-End Web Development, Digital Marketing, Content Creation & Public Speaking."
+    }, {
+      "leftX" : 25.2218,
+      "bottomY" : 440.1342,
+      "rightX" : 27.9728,
+      "topY" : 429.1342,
+      "baseLineY" : 437.8206,
+      "fontId" : 4,
+      "text" : " "
+    }, {
+      "leftX" : 27.6379,
+      "bottomY" : 440.3915,
+      "rightX" : 71.6861,
+      "topY" : 429.3915,
+      "baseLineY" : 437.8206,
+      "fontId" : 5,
+      "text" : "Interests: "
+    }, {
+      "leftX" : 71.3503,
+      "bottomY" : 440.1342,
+      "rightX" : 288.741,
+      "topY" : 429.1342,
+      "baseLineY" : 437.8206,
+      "fontId" : 4,
+      "text" : "Machine Learning, Cloud Computing & BlockChain"
+    }, {
+      "leftX" : 24.2912,
+      "bottomY" : 463.1739,
+      "rightX" : 85.4226,
+      "topY" : 451.1739,
+      "baseLineY" : 460.3693,
+      "fontId" : 3,
+      "text" : "PROJECTS"
+    }, {
+      "leftX" : 24.9116,
+      "bottomY" : 482.5094,
+      "rightX" : 27.9141,
+      "topY" : 470.5094,
+      "baseLineY" : 479.7047,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 27.5505,
+      "bottomY" : 482.5094,
+      "rightX" : 86.352,
+      "topY" : 470.5094,
+      "baseLineY" : 479.7047,
+      "fontId" : 8,
+      "text" : "COVID - 19"
+    }, {
+      "leftX" : 85.9823,
+      "bottomY" : 482.5094,
+      "rightX" : 91.6271,
+      "topY" : 470.5094,
+      "baseLineY" : 479.7047,
+      "fontId" : 8,
+      "text" : "  "
+    }, {
+      "leftX" : 91.2602,
+      "bottomY" : 482.5094,
+      "rightX" : 131.1217,
+      "topY" : 470.5094,
+      "baseLineY" : 479.7047,
+      "fontId" : 8,
+      "text" : "Tracker"
+    }, {
+      "leftX" : 130.7504,
+      "bottomY" : 482.47,
+      "rightX" : 503.6653,
+      "topY" : 470.47,
+      "baseLineY" : 479.7047,
+      "fontId" : 9,
+      "text" : "                                                                                                                                             "
+    }, {
+      "leftX" : 503.2973,
+      "bottomY" : 482.2287,
+      "rightX" : 507.2967,
+      "topY" : 470.2287,
+      "baseLineY" : 479.7047,
+      "fontId" : 10,
+      "text" : "["
+    }, {
+      "leftX" : 506.9332,
+      "bottomY" : 482.2287,
+      "rightX" : 556.739,
+      "topY" : 470.2287,
+      "baseLineY" : 479.7047,
+      "fontId" : 10,
+      "text" : "Github Lin"
+    }, {
+      "leftX" : 556.3691,
+      "bottomY" : 482.2287,
+      "rightX" : 562.3741,
+      "topY" : 470.2287,
+      "baseLineY" : 479.7047,
+      "fontId" : 10,
+      "text" : "k"
+    }, {
+      "leftX" : 562.0106,
+      "bottomY" : 482.2287,
+      "rightX" : 566.0099,
+      "topY" : 470.2287,
+      "baseLineY" : 479.7047,
+      "fontId" : 10,
+      "text" : "]"
+    }, {
+      "leftX" : 24.9116,
+      "bottomY" : 496.8206,
+      "rightX" : 29.6139,
+      "topY" : 486.8206,
+      "baseLineY" : 494.7173,
+      "fontId" : 11,
+      "text" : "  "
+    }, {
+      "leftX" : 29.3098,
+      "bottomY" : 496.7322,
+      "rightX" : 80.1915,
+      "topY" : 486.7322,
+      "baseLineY" : 494.7173,
+      "fontId" : 12,
+      "text" : "Team Project"
+    }, {
+      "leftX" : 43.6187,
+      "bottomY" : 512.7942,
+      "rightX" : 523.7412,
+      "topY" : 501.7942,
+      "baseLineY" : 510.4806,
+      "fontId" : 4,
+      "text" : "Built-in HackVerse 2.0 conducted by NIT Surathkal and was in the top 50 submissions over the 200+ teams globally."
+    }, {
+      "leftX" : 43.6187,
+      "bottomY" : 529.5653,
+      "rightX" : 92.9047,
+      "topY" : 518.5653,
+      "baseLineY" : 526.9944,
+      "fontId" : 5,
+      "text" : "Tech Stack"
+    }, {
+      "leftX" : 92.5621,
+      "bottomY" : 529.308,
+      "rightX" : 200.5149,
+      "topY" : 518.308,
+      "baseLineY" : 526.9944,
+      "fontId" : 4,
+      "text" : ": HTML & CSS, ReactJs, "
+    }, {
+      "leftX" : 200.1836,
+      "bottomY" : 529.308,
+      "rightX" : 300.7878,
+      "topY" : 518.308,
+      "baseLineY" : 526.9944,
+      "fontId" : 4,
+      "text" : "Open Disease Data API."
+    }, {
+      "leftX" : 24.2912,
+      "bottomY" : 547.9489,
+      "rightX" : 27.2937,
+      "topY" : 535.9489,
+      "baseLineY" : 545.1442,
+      "fontId" : 8,
+      "text" : " "
+    }, {
+      "leftX" : 26.9301,
+      "bottomY" : 547.9489,
+      "rightX" : 151.4869,
+      "topY" : 535.9489,
+      "baseLineY" : 545.1442,
+      "fontId" : 8,
+      "text" : "Spaceship Zombies Game"
+    }, {
+      "leftX" : 151.1241,
+      "bottomY" : 547.9095,
+      "rightX" : 502.9012,
+      "topY" : 535.9095,
+      "baseLineY" : 545.1442,
+      "fontId" : 9,
+      "text" : "                                                                                                                                     "
+    }, {
+      "leftX" : 502.5361,
+      "bottomY" : 547.6682,
+      "rightX" : 506.5355,
+      "topY" : 535.6682,
+      "baseLineY" : 545.1442,
+      "fontId" : 10,
+      "text" : "["
+    }, {
+      "leftX" : 506.172,
+      "bottomY" : 547.6682,
+      "rightX" : 555.9779,
+      "topY" : 535.6682,
+      "baseLineY" : 545.1442,
+      "fontId" : 10,
+      "text" : "Github Lin"
+    }, {
+      "leftX" : 555.608,
+      "bottomY" : 547.6682,
+      "rightX" : 561.613,
+      "topY" : 535.6682,
+      "baseLineY" : 545.1442,
+      "fontId" : 10,
+      "text" : "k"
+    }, {
+      "leftX" : 561.2494,
+      "bottomY" : 547.6682,
+      "rightX" : 565.2488,
+      "topY" : 535.6682,
+      "baseLineY" : 545.1442,
+      "fontId" : 10,
+      "text" : "]"
+    }, {
+      "leftX" : 24.2912,
+      "bottomY" : 562.2602,
+      "rightX" : 28.9935,
+      "topY" : 552.2602,
+      "baseLineY" : 560.1569,
+      "fontId" : 11,
+      "text" : "  "
+    }, {
+      "leftX" : 28.6894,
+      "bottomY" : 562.1718,
+      "rightX" : 96.668,
+      "topY" : 552.1718,
+      "baseLineY" : 560.1569,
+      "fontId" : 12,
+      "text" : "Individual Project"
+    }, {
+      "leftX" : 42.9983,
+      "bottomY" : 578.2337,
+      "rightX" : 561.2166,
+      "topY" : 567.2337,
+      "baseLineY" : 575.92,
+      "fontId" : 4,
+      "text" : "A shooting game in which a rocket fires bullets on zombies before reaching them to the bottom (Earth) and meanwhile score is"
+    }, {
+      "leftX" : 42.9983,
+      "bottomY" : 594.7475,
+      "rightX" : 299.2963,
+      "topY" : 583.7475,
+      "baseLineY" : 592.4339,
+      "fontId" : 4,
+      "text" : "calculated on each successful shot with different sound effects."
+    }, {
+      "leftX" : 42.9983,
+      "bottomY" : 611.5187,
+      "rightX" : 92.2842,
+      "topY" : 600.5187,
+      "baseLineY" : 608.9478,
+      "fontId" : 5,
+      "text" : "Tech Stack"
+    }, {
+      "leftX" : 91.9417,
+      "bottomY" : 611.2614,
+      "rightX" : 300.695,
+      "topY" : 600.2614,
+      "baseLineY" : 608.9478,
+      "fontId" : 4,
+      "text" : ": Python and its libraries (Pygame, Math, Random)"
+    }, {
+      "leftX" : 300.3587,
+      "bottomY" : 611.2614,
+      "rightX" : 303.1098,
+      "topY" : 600.2614,
+      "baseLineY" : 608.9478,
+      "fontId" : 4,
+      "text" : "."
+    }, {
+      "leftX" : 23.9809,
+      "bottomY" : 635.7459,
+      "rightX" : 219.8777,
+      "topY" : 623.7459,
+      "baseLineY" : 632.9413,
+      "fontId" : 3,
+      "text" : "EXTRA-CURRICULAR ACTIVITIES"
+    }, {
+      "leftX" : 23.9809,
+      "bottomY" : 654.4874,
+      "rightX" : 26.732,
+      "topY" : 643.4874,
+      "baseLineY" : 651.9165,
+      "fontId" : 5,
+      "text" : " "
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 651.9937,
+      "rightX" : 393.5922,
+      "topY" : 639.9937,
+      "baseLineY" : 649.4698,
+      "fontId" : 10,
+      "text" : "Accomplished \" The Fundamentals of Digital Marketing \" course by Google. ("
+    }, {
+      "leftX" : 393.2206,
+      "bottomY" : 651.9937,
+      "rightX" : 473.4962,
+      "topY" : 639.9937,
+      "baseLineY" : 649.4698,
+      "fontId" : 10,
+      "text" : "Certification Link"
+    }, {
+      "leftX" : 473.1275,
+      "bottomY" : 651.9937,
+      "rightX" : 477.1269,
+      "topY" : 639.9937,
+      "baseLineY" : 649.4698,
+      "fontId" : 10,
+      "text" : ")"
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 668.5076,
+      "rightX" : 139.9987,
+      "topY" : 656.5076,
+      "baseLineY" : 665.9836,
+      "fontId" : 10,
+      "text" : "Authored an article in"
+    }, {
+      "leftX" : 139.6368,
+      "bottomY" : 668.7883,
+      "rightX" : 264.7341,
+      "topY" : 656.7883,
+      "baseLineY" : 665.9836,
+      "fontId" : 8,
+      "text" : " Technical Scripter Event "
+    }, {
+      "leftX" : 264.3703,
+      "bottomY" : 668.5076,
+      "rightX" : 408.3716,
+      "topY" : 656.5076,
+      "baseLineY" : 665.9836,
+      "fontId" : 10,
+      "text" : "conducted by GeeksForGeeks. ("
+    }, {
+      "leftX" : 408.0104,
+      "bottomY" : 668.5076,
+      "rightX" : 463.0887,
+      "topY" : 656.5076,
+      "baseLineY" : 665.9836,
+      "fontId" : 10,
+      "text" : "Article Link"
+    }, {
+      "leftX" : 462.7242,
+      "bottomY" : 668.5076,
+      "rightX" : 466.7236,
+      "topY" : 656.5076,
+      "baseLineY" : 665.9836,
+      "fontId" : 10,
+      "text" : ")"
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 685.3022,
+      "rightX" : 80.0682,
+      "topY" : 673.3022,
+      "baseLineY" : 682.4975,
+      "fontId" : 8,
+      "text" : "Winner"
+    }, {
+      "leftX" : 79.7037,
+      "bottomY" : 685.0214,
+      "rightX" : 318.8371,
+      "topY" : 673.0214,
+      "baseLineY" : 682.4975,
+      "fontId" : 10,
+      "text" : " in Inter - College Level Essay Writing Competitions "
+    }, {
+      "leftX" : 318.4743,
+      "bottomY" : 685.3022,
+      "rightX" : 346.3498,
+      "topY" : 673.3022,
+      "baseLineY" : 682.4975,
+      "fontId" : 8,
+      "text" : "twice."
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 701.5353,
+      "rightX" : 172.498,
+      "topY" : 689.5353,
+      "baseLineY" : 699.0114,
+      "fontId" : 10,
+      "text" : "Delivered speaker session in "
+    }, {
+      "leftX" : 172.1367,
+      "bottomY" : 701.816,
+      "rightX" : 269.4186,
+      "topY" : 689.816,
+      "baseLineY" : 699.0114,
+      "fontId" : 8,
+      "text" : "Nexture Summit '21"
+    }, {
+      "leftX" : 269.05,
+      "bottomY" : 701.5353,
+      "rightX" : 293.1664,
+      "topY" : 689.5353,
+      "baseLineY" : 699.0114,
+      "fontId" : 10,
+      "text" : " on \" "
+    }, {
+      "leftX" : 292.8004,
+      "bottomY" : 701.5353,
+      "rightX" : 444.7164,
+      "topY" : 689.5353,
+      "baseLineY" : 699.0114,
+      "fontId" : 10,
+      "text" : "How to start your journey in Tech"
+    }, {
+      "leftX" : 444.3456,
+      "bottomY" : 701.5353,
+      "rightX" : 451.8879,
+      "topY" : 689.5353,
+      "baseLineY" : 699.0114,
+      "fontId" : 10,
+      "text" : "\"."
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 718.0492,
+      "rightX" : 327.0802,
+      "topY" : 706.0492,
+      "baseLineY" : 715.5252,
+      "fontId" : 10,
+      "text" : "General Secretary at ODYSSEY - Literary Society of IIIT Kota"
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 734.8437,
+      "rightX" : 66.4728,
+      "topY" : 722.8437,
+      "baseLineY" : 732.0391,
+      "fontId" : 8,
+      "text" : "Won"
+    }, {
+      "leftX" : 66.1103,
+      "bottomY" : 734.563,
+      "rightX" : 85.3505,
+      "topY" : 722.563,
+      "baseLineY" : 732.0391,
+      "fontId" : 10,
+      "text" : " the "
+    }, {
+      "leftX" : 84.9816,
+      "bottomY" : 734.8437,
+      "rightX" : 243.3109,
+      "topY" : 722.8437,
+      "baseLineY" : 732.0391,
+      "fontId" : 8,
+      "text" : "Ganga Quest’20 (National Level)"
+    }, {
+      "leftX" : 242.9422,
+      "bottomY" : 734.563,
+      "rightX" : 555.6856,
+      "topY" : 722.563,
+      "baseLineY" : 732.0391,
+      "fontId" : 10,
+      "text" : " conducted by the Ministry of Jal Shakti and the Government of India."
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 751.0769,
+      "rightX" : 94.919,
+      "topY" : 739.0769,
+      "baseLineY" : 748.5529,
+      "fontId" : 10,
+      "text" : "Completed "
+    }, {
+      "leftX" : 94.5521,
+      "bottomY" : 751.3576,
+      "rightX" : 260.396,
+      "topY" : 739.3576,
+      "baseLineY" : 748.5529,
+      "fontId" : 8,
+      "text" : "Facebook Spark AR Challenge '21"
+    }, {
+      "leftX" : 260.0308,
+      "bottomY" : 751.0769,
+      "rightX" : 527.0578,
+      "topY" : 739.0769,
+      "baseLineY" : 748.5529,
+      "fontId" : 10,
+      "text" : " and made filters to celebrate COVID-19 Frontline workers."
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 768.3413,
+      "rightX" : 173.1179,
+      "topY" : 756.3413,
+      "baseLineY" : 765.8174,
+      "fontId" : 10,
+      "text" : "Completed 2nd Milestone in "
+    }, {
+      "leftX" : 172.7466,
+      "bottomY" : 768.622,
+      "rightX" : 386.2802,
+      "topY" : 756.622,
+      "baseLineY" : 765.8174,
+      "fontId" : 8,
+      "text" : "Google Cloud Ready Facilitator Program’21"
+    }, {
+      "leftX" : 385.9137,
+      "bottomY" : 768.3413,
+      "rightX" : 395.1891,
+      "topY" : 756.3413,
+      "baseLineY" : 765.8174,
+      "fontId" : 10,
+      "text" : ". ("
+    }, {
+      "leftX" : 394.8157,
+      "bottomY" : 768.3413,
+      "rightX" : 488.6128,
+      "topY" : 756.3413,
+      "baseLineY" : 765.8174,
+      "fontId" : 10,
+      "text" : "Qwiklabs Profile Url"
+    }, {
+      "leftX" : 488.2457,
+      "bottomY" : 768.3413,
+      "rightX" : 492.2425,
+      "topY" : 756.3413,
+      "baseLineY" : 765.8174,
+      "fontId" : 10,
+      "text" : ")"
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 785.1359,
+      "rightX" : 97.2844,
+      "topY" : 773.1359,
+      "baseLineY" : 782.3312,
+      "fontId" : 8,
+      "text" : "Runner Up"
+    }, {
+      "leftX" : 96.9213,
+      "bottomY" : 784.8552,
+      "rightX" : 279.596,
+      "topY" : 772.8552,
+      "baseLineY" : 782.3312,
+      "fontId" : 10,
+      "text" : " in Google DSC Animate’21 Hackathon."
+    }, {
+      "leftX" : 279.2305,
+      "bottomY" : 785.1359,
+      "rightX" : 285.8666,
+      "topY" : 773.1359,
+      "baseLineY" : 782.3312,
+      "fontId" : 8,
+      "text" : " ("
+    }, {
+      "leftX" : 285.4935,
+      "bottomY" : 784.8552,
+      "rightX" : 352.4402,
+      "topY" : 772.8552,
+      "baseLineY" : 782.3312,
+      "fontId" : 10,
+      "text" : "Link to Project"
+    }, {
+      "leftX" : 352.0767,
+      "bottomY" : 785.1359,
+      "rightX" : 356.0736,
+      "topY" : 773.1359,
+      "baseLineY" : 782.3312,
+      "fontId" : 8,
+      "text" : ")"
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 801.6498,
+      "rightX" : 140.6904,
+      "topY" : 789.6498,
+      "baseLineY" : 798.8451,
+      "fontId" : 8,
+      "text" : "Ranked 229 globally"
+    }, {
+      "leftX" : 140.3171,
+      "bottomY" : 801.369,
+      "rightX" : 457.4461,
+      "topY" : 789.369,
+      "baseLineY" : 798.8451,
+      "fontId" : 10,
+      "text" : " in Local Hack Day: Build event conducted by Major League Hacking."
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 817.8829,
+      "rightX" : 105.4518,
+      "topY" : 805.8829,
+      "baseLineY" : 815.3589,
+      "fontId" : 10,
+      "text" : "Shortlisted as "
+    }, {
+      "leftX" : 105.0844,
+      "bottomY" : 818.1636,
+      "rightX" : 145.2536,
+      "topY" : 806.1636,
+      "baseLineY" : 815.3589,
+      "fontId" : 8,
+      "text" : "Winner "
+    }, {
+      "leftX" : 144.8912,
+      "bottomY" : 817.8829,
+      "rightX" : 463.6508,
+      "topY" : 805.8829,
+      "baseLineY" : 815.3589,
+      "fontId" : 10,
+      "text" : "in Microsoft Partner Leadership Conclave 10 – Cloud Skills Challenge."
+    }, {
+      "leftX" : 42.5006,
+      "bottomY" : 834.3968,
+      "rightX" : 110.1191,
+      "topY" : 822.3968,
+      "baseLineY" : 831.8728,
+      "fontId" : 10,
+      "text" : "Contributed to "
+    }, {
+      "leftX" : 109.7523,
+      "bottomY" : 834.6775,
+      "rightX" : 222.8792,
+      "topY" : 822.6775,
+      "baseLineY" : 831.8728,
+      "fontId" : 8,
+      "text" : "Open Source Programs"
+    }, {
+      "leftX" : 222.511,
+      "bottomY" : 834.3968,
+      "rightX" : 577.4091,
+      "topY" : 822.3968,
+      "baseLineY" : 831.8728,
+      "fontId" : 10,
+      "text" : " like HacktoberFest’20 ( 8 PRs), DWoC’20, SWoC’20 , GSSoC’21 & OSD'21."
+    } ],
+    "txtChars" : null
+  } ],
+  "fontSpecs" : [ {
+    "id" : 1,
+    "fontFamily" : "TeXGyreTermes-Bold",
+    "fontSize" : 19.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#231f20"
+  }, {
+    "id" : 2,
+    "fontFamily" : "TeXGyreTermes-Regular",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#231f20"
+  }, {
+    "id" : 3,
+    "fontFamily" : "TeXGyreTermes-Bold",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#231f20"
+  }, {
+    "id" : 4,
+    "fontFamily" : "TeXGyreTermes-Regular",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 5,
+    "fontFamily" : "TeXGyreTermes-Bold",
+    "fontSize" : 11.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 6,
+    "fontFamily" : "TeXGyreTermes-Italic",
+    "fontSize" : 11.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 7,
+    "fontFamily" : "TeXGyreTermes-BoldItalic",
+    "fontSize" : 11.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 8,
+    "fontFamily" : "TeXGyreTermes-Bold",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 9,
+    "fontFamily" : "TeXGyreTermes-BoldItalic",
+    "fontSize" : 12.0,
+    "italic" : true,
+    "bold" : true,
+    "color" : "#000000"
+  }, {
+    "id" : 10,
+    "fontFamily" : "TeXGyreTermes-Regular",
+    "fontSize" : 12.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 11,
+    "fontFamily" : "TeXGyreTermes-Regular",
+    "fontSize" : 10.0,
+    "italic" : false,
+    "bold" : false,
+    "color" : "#000000"
+  }, {
+    "id" : 12,
+    "fontFamily" : "TeXGyreTermes-Italic",
+    "fontSize" : 10.0,
+    "italic" : true,
+    "bold" : false,
+    "color" : "#000000"
+  } ],
+  "notices" : "Text coordinates are specified with respect to the TrimBox of the page. You will need to adjust if you want raw pdf coordinates."
+}

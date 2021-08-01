@@ -1,0 +1,104 @@
+{
+	"basics": {
+		"name": "Achalesh Lakhotiya",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "code.achalesh@gmail.com",
+		"phone": "7023320149",
+		"website": "https://medium.com/@code-achalesh",
+		"summary": "Hackathon-Geek with creative writing and proficient oratory skills. Believe in Vibrant Leadership & Management.",
+		"location": {
+			"address": "Ganesh Colony, Opp. Dr. Solanki, Ward No. 16, Parbatsar.",
+			"postalCode": "341512",
+			"city": "Parbatsar",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "AchaleshL",
+				"url": "https://www.twitter.com/AchaleshL"
+			},
+			{
+				"network": "Github",
+				"username": "achalesh27022003",
+				"url": "https://www.github.com/<handle>/"
+			},
+			{
+				"network": "linkedin",
+				"username": "achal2702",
+				"url": "https://www.linkedin.com/in/achal2702/"
+			},
+			{
+				"network": "Instagram",
+				"username": "achalesh_lakhotiya",
+				"url": "https://instagram.com/achalesh_lakhotiya"
+			}
+		]
+	},
+	"work": [{
+		"company": "Cuvette Tech",
+		"position": "Technical Content Writer Intern",
+		"website": "https://www.linkedin.com/company/cuvette-tech/",
+		"startDate": "2021-07-05",
+		"endDate": "2021-09-05",
+		"summary": "At Cuvette, we help startups to find interns who are verified on their software development skills and problem-solving abilities. We are creating a pool of students from various engineering colleges in India so that startups get easy access to all the students who are well versed in product development skills",
+		"highlights": ["Raised US $178.9K as seed fund, Catered to 75 unique companies from India (mainly), USA, Singapore, Canada, Dubai, UK and Reach in more than 500 colleges in India.", "Responsible for writing all the technical articles & documentations."]
+    
+    "company": "COMETLabs IT Solutions Pvt. Ltd.",
+		"position": "Co-Founder & COO",
+		"website": "https://www.linkedin.com/company/cometlabs/",
+		"startDate": "2021-05-20",
+		"endDate": "Present",
+		"summary": "Our vision is to make the best use of the data with its analytics, security, and monetization which goes hand-in-hand.We leverage the power of AI in the form of Analytics and the power of Blockchain in the form of decentralized data and its security.",
+		"highlights": ["Incubated by NewGen IEDC, IIIT Allahabad, Powered by EDII, NSTDEB & DST, and Backed with community support of IIITians Network", "Responsible for Product Management, Marketing & Operations, Public Relations and Data Analytics"]
+
+    "company": "C# Corner",
+		"position": "Community Student Partner",
+		"website": "https://www.linkedin.com/company/csharpcorner/",
+		"startDate": "2021-07-05",
+		"endDate": "2021-09-05",
+		"summary": "C# Corner is an global social community for IT professionals and data developers to exchange their knowledge and experience using various methods such as contributing articles, forums, blogs, and videos.",
+		"highlights": ["C# Corner reaches 3+ million monthly users worldwide. Recently announced C# Corner News Section keeps you up to date with the latest technology news.", "Authored an article that has more than 4,300 views globally and organized a webinar on " Developing Full Stack Applications Using Multiple Platforms"."]
+	}],
+
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information Technology, Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-06-20",
+		"endDate": "2023=06-20",
+		"gpa": "8.82",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Python", "SQL", "Content Creation", "Marketing", "Public Speaking"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton", "Cricket", "Cards", "Football", "Sudoku, Puzzles & Quizzes"]
+	}],
+	"references": []
+}
